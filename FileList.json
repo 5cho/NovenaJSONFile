@@ -21,11 +21,11 @@
       "localPath": "test4.png"
     },
     {
-      "url": "https://raw.githubusercontent.com/5cho/NovenaJSONFile/main/files/audio1.mp3",
+      "url": "https://raw.githubusercontent.com/5cho/NovenaJSONFile/main/files/audio1.wav",
       "localPath": "audio1.mp3"
     },
     {
-      "url": "https://raw.githubusercontent.com/5cho/NovenaJSONFile/main/files/audio2.mp3",
+      "url": "https://raw.githubusercontent.com/5cho/NovenaJSONFile/main/files/audio2.wav",
       "localPath": "audio2.mp3"
     }
   ]
