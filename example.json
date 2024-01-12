@@ -22,7 +22,7 @@
             },
             {
               "Name": "Audio",
-              "FilePath": "/files/audio1.mp3"
+              "FilePath": "/files/audio1.wav"
             }
           ]
         },
@@ -44,7 +44,7 @@
             },
             {
               "Name": "Audio",
-              "FilePath": "/files/audio2.mp3"
+              "FilePath": "/files/audio2.wav"
             }
           ]
         }
@@ -72,7 +72,7 @@
             },
             {
               "Name": "Audio",
-              "FilePath": "/files/audio1.mp3"
+              "FilePath": "/files/audio1.wav"
             }
           ]
         },
@@ -94,7 +94,7 @@
             },
             {
               "Name": "Audio",
-              "FilePath": "/files/audio2.mp3"
+              "FilePath": "/files/audio2.wav"
             }
           ]
         }
