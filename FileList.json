@@ -1,0 +1,32 @@
+{
+  "files": [
+    {
+      "url": "https://raw.githubusercontent.com/5cho/NovenaJSONFile/main/example.json",
+      "localPath": "downloadedFile.json"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/5cho/NovenaJSONFile/main/files/test.png",
+      "localPath": "test.png"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/5cho/NovenaJSONFile/main/files/test2.png",
+      "localPath": "test2.png"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/5cho/NovenaJSONFile/main/files/test3.png",
+      "localPath": "test3.png"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/5cho/NovenaJSONFile/main/files/test4.png",
+      "localPath": "test4.png"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/5cho/NovenaJSONFile/main/files/audio1.mp3",
+      "localPath": "audio1.mp3"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/5cho/NovenaJSONFile/main/files/audio2.mp3",
+      "localPath": "audio2.mp3"
+    }
+  ]
+}
